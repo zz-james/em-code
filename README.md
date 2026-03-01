@@ -1,6 +1,6 @@
-# em-code-interview
+# em-code
 
-Code to discuss duriing the interview. I took the tab task from the invite document and combined it with some of my own existing code, so the tabs are styled according to the supplied jpeg (see below) but with different focus / content.
+I took the tab task from the supplied document and combined it with some of my own existing code, so the tabs are styled according to the supplied jpeg (see below) but with different focus / content.
 
 # to launch
 
@@ -19,9 +19,6 @@ alternatively see any of these methods:
 # possible talking points:
 
 - are tabs bad UI for websites?
-- are web components ready?
-- where are web components in relation to frameworks?
-- what are the use cases of web components?
 - the border logic on the tabs.
   \/
 
